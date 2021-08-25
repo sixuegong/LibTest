@@ -101,3 +101,7 @@ ENV/
 .mypy_cache/
 
 *.pyc
+
+# pytorch model
+.tar
+.pt
